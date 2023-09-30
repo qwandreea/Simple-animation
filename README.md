@@ -5,3 +5,6 @@
 # Usage: 
 The object can be placed anywhere on the screen. For the trajectory animation, right-click the mouse.
 ![](./screenshots/demo.gif)
+
+
+© [This project is my personal work.]
